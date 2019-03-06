@@ -75,3 +75,10 @@ OUTPUT>> Checking the sums of every row:      15  15  15
 OUTPUT>> Checking the sums of every column:   15  15  15
 OUTPUT>> Checking the sums of every diagonal: 15  15
 
+OUPUT>> Magic Square #5 is:
+  6   1   8
+  7   5   3
+  2   9   4
+OUTPUT>> Checking the sums of every row:      15  15  15
+OUTPUT>> Checking the sums of every column:   15  15  15
+OUTPUT>> Checking the sums of every diagonal: 15  15
